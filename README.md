@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wathika</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
-<div style="align:right;width:400;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="400" height="100%" style="position:absolute" alt="Coding" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wathika-eng" alt="wathika-eng" /></a> </p>
 
