@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.mp4)]
+[![MasterHead](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Wathika</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
