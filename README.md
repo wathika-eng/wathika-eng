@@ -7,7 +7,8 @@
 
 - Get all IT notes here: **https://it.wathika.tech/**
 
-- 💬 Ask me about **C, Python, Bash and JavaScript**
+- 💬 Ask me about: **C, Python, Bash and JavaScript**
+- **Fun fact**: Linux is so open source even your cat can contribute code
 
    [![wakatime](https://wakatime.com/badge/user/018c57df-d8be-452c-aae7-621da67d3d5c.svg)](https://wakatime.com/@018c57df-d8be-452c-aae7-621da67d3d5c)
 <h3 align="left">Connect with me:</h3>
