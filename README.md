@@ -1,4 +1,6 @@
-## Hi there 👋
+[![wathika-eng's Codewars Badge](https://www.codewars.com/users/wathika-eng/badges/large)](https://www.codewars.com/users/wathika-eng)
+
+[![wakatime](https://wakatime.com/badge/user/018c57df-d8be-452c-aae7-621da67d3d5c.svg)](https://wakatime.com/@018c57df-d8be-452c-aae7-621da67d3d5c)
 
 <!--
 **wathika-eng/wathika-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
