@@ -14,6 +14,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wathika-eng&label=Profile%20views&color=0e75b6&style=flat" alt="Joseph Wathika GitHub profile views" />
+  <img src="https://wakatime.com/badge/user/018c57df-d8be-452c-aae7-621da67d3d5c.svg"/>
 </p>
 
 ---
