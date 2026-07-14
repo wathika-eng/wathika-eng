@@ -67,15 +67,6 @@
 
 ---
 
-### Featured Project
-
-**Gava Connect API**  
-A backend API project focused on structured service access and API-first design.
-
-Documentation: [View Postman Docs](https://documenter.getpostman.com/view/34083824/2sB3QFPXHo)
-
----
-
 ### GitHub Activity
 
 <p align="center">
